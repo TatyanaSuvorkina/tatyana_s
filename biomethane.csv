@@ -1,0 +1,141 @@
+,Nom du site,Type de site,Code INSEE Commune,Commune,Coordonnees,Code INSEE Departement,Département,Code INSEE Region,Région,Date de mise en service,Annee mise en service,Type de Reseau,Reseau,Capacite de production (GWh/an),Code INSEE EPCI
+0,Nom du site,Type de site,Code INSEE Commune,Commune,Coordonnees,Code INSEE Departement,Département,Code INSEE Region,Région,Date de mise en service,Annee mise en service,Type de Reseau,Reseau,Capacite de production (GWh/an),Code INSEE EPCI
+1,O’TERRES ENERGIES,Agricole autonome,77478,Ussy-sur-Marne,"48.9665838811, 3.08198151842",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2014,Distribution,GRDF,28.6016,200077055
+2,BIOGAZ PEVELE SARL,Agricole autonome,59638,Wannehain,"50.5709754745, 3.27007498669",59,Nord,32,Hauts-de-France,00:00:00,2015,Distribution,GRDF,8.938,200041960
+3,SARL BIO’SEINE,Agricole territorial,10233,Méry-sur-Seine,"48.5090415373, 3.89883069261",10,Aube,44,Grand-Est,00:00:00,2015,Distribution,GRDF,12.0663,200070126
+4,SCEA des Longchamps,Agricole autonome,90001,Andelnans,"47.6031655316, 6.86569831996",90,Territoire de Belfort,27,Bourgogne-Franche-Comté,00:00:00,2015,Distribution,GRDF,15.55212,200069052
+5,ECOCEA,Déchets ménagers,71073,Chagny,"46.8985800984, 4.77433585145",71,Saône-et-Loire,27,Bourgogne-Franche-Comté,00:00:00,2015,Transport,GRTgaz,28,200006682
+6,SAS Méthachrist,Agricole territorial,67532,Willgottheim,"48.6735628136, 7.51567430993",67,Bas-Rhin,44,Grand-Est,00:00:00,2016,Distribution,R-GDS,11.6194,200034635
+7,Biogaz Meaux,Agricole autonome,77335,Chauconin-Neufmontiers,"48.9719332783, 2.83158634864",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2016,Distribution,GRDF,12.5132,200072130
+8,Centrale Biogaz du Vermandois,Agricole territorial,80274,Eppeville,"49.737763833, 3.04903557364",80,Somme,32,Hauts-de-France,00:00:00,2016,Distribution,GRDF,20.1105,200070985
+9,STEP Annecy,Station d'épuration,74093,Cran-Gevrier,"45.9017933456, 6.09977672068",74,Haute-Savoie,84,Auvergne-Rhône-Alpes,00:00:00,2017,Distribution,GRDF,14.7477,200066793
+10,Valois Energie Senlis,Agricole territorial,60612,Senlis,"49.2118455897, 2.58570626014",60,Oise,32,Hauts-de-France,00:00:00,2017,Distribution,GRDF,35.752,200066975
+11,STEP du Corniguel,Station d'épuration,29232,Quimper,"47.9971425162, -4.09111944455",29,Finistère,53,Bretagne,00:00:00,2017,Distribution,GRDF,7.1504,200068120
+12,STEP VIENNAGGLO,Station d'épuration,38336,Reventin-Vaugris,"45.4796682069, 4.84348243877",38,Isère,84,Auvergne-Rhône-Alpes,00:00:00,2017,Distribution,GRDF,6.2566,200077014
+13,Thoiry Bioénergie,Agricole territorial,78616,Thoiry,"48.8724624004, 1.79780062062",78,Yvelines,11,Ile-de-France,00:00:00,2018,Distribution,GRDF,9.8318,247800618
+14,BIOMETHARN,Agricole autonome,81002,Aiguefonde,"43.4928550174, 2.32315581418",81,Tarn,76,Occitanie,00:00:00,2018,Distribution,GRDF,15.1946,248100430
+15,SUEZ RV (Gueltas),ISDND,56072,Gueltas,"48.0920646623, -2.80987346419",56,Morbihan,53,Bretagne,00:00:00,2018,Distribution,GRDF,22.345,245614433
+16,STEP Feyssine,Station d'épuration,69256,Vaulx-en-Velin,"45.7858821061, 4.92637767698",69,Rhône,84,Auvergne-Rhône-Alpes,00:00:00,2018,Distribution,GRDF,6.2566,200046977
+17,STEP de SORMIOU,Station d'épuration,13055,Marseille,"43.296346, 5.369889",13,Bouches-du-Rhône,93,Provence-Alpes-Côte d'Azur,00:00:00,2019,Distribution,GRDF,25.9202,200054807
+18,GAEC DU TRANSFO,Agricole autonome,55502,Stenay,"49.5005049028, 5.19767442624",55,Meuse,44,Grand-Est,00:00:00,2019,Distribution,GRDF,7.5973,200066132
+19,Agri Briva Métha (Brioude),Agricole autonome,43207,Saint-Laurent-Chabreuges,"45.2768738182, 3.34696183552",43,Haute-Loire,84,Auvergne-Rhône-Alpes,00:00:00,2019,Distribution,GRDF,7.06102,244301032
+20,LA MARGUERITE,Agricole autonome,62127,Bezinghem,"50.5986244617, 1.85180618484",62,Pas-de-Calais,32,Hauts-de-France,00:00:00,2019,Distribution,GRDF,17.876,200069235
+21,CELLES SUR BELLE BIOGAZ,Agricole territorial,79061,Celles-sur-Belle,"46.2405369288, -0.218181064771",79,Deux-Sèvres,75,Nouvelle-Aquitaine,00:00:00,2019,Distribution,GRDF,8.938,200069755
+22,Biométhane du Chaunois (St Aubin),Agricole autonome,02671,Saint-Aubin,"49.5099540337, 3.18837580055",02,Aisne,32,Hauts-de-France,00:00:00,2019,Distribution,GRDF,14.3008,200071769
+23,METHAMAINE,Agricole territorial,53152,Meslay-du-Maine,"47.9469156243, -0.558693863131",53,Mayenne,52,Pays de la Loire,00:00:00,2020,Distribution,GRDF,10.2787,245300223
+24,CERES GERMIGNY,Agricole autonome,89186,Germigny,"47.9971165696, 3.79141682909",89,Yonne,27,Bourgogne-Franche-Comté,00:00:00,2020,Distribution,GRDF,14.3008,200067304
+25,Terres d'Aquitaine,Déchets ménagers,33474,Saint-Selve,"44.6549808448, -0.472634663136",33,Gironde,75,Nouvelle-Aquitaine,00:00:00,2020,Distribution,GRDF,44.69,243301264
+26,SARL LETANG BIOGAZ,Agricole autonome,77459,Sourdun,"48.5369434021, 3.3628787539",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2014,Distribution,GRDF,12.5132,200037133
+27,SARL PANAIS ENERGIE,Agricole territorial,10375,Thennelières,"48.2893448693, 4.18526592573",10,Aube,44,Grand-Est,00:00:00,2015,Distribution,GRDF,40.221,200069250
+28,Biovalsan,Station d'épuration,67482,Strasbourg,"48.5712679849, 7.76752679517",67,Bas-Rhin,44,Grand-Est,00:00:00,2015,Distribution,R-GDS,16.62468,246700488
+29,Méthavos,Agricole territorial,57631,Sarreguemines,"49.1088144102, 7.06943100683",57,Moselle,44,Grand-Est,00:00:00,2016,Distribution,GRDF,11.1725,200070746
+30,Quimper-VolV,Agricole territorial,29232,Quimper,"47.9971425162, -4.09111944455",29,Finistère,53,Bretagne,00:00:00,2017,Distribution,GRDF,27.2609,200068120
+31,STEP Angers,Station d'épuration,49007,Angers,"47.476837416, -0.556125995444",49,Maine-et-Loire,52,Pays de la Loire,00:00:00,2017,Distribution,GRDF,16.0884,244900015
+32,SITA Saint-Maximin,ISDND,60589,Saint-Maximin,"49.224445885, 2.45930498428",60,Oise,32,Hauts-de-France,00:00:00,2017,Distribution,GRDF,14.3008,200068047
+33,Barberey Saint Sulpice,Agricole autonome,10030,Barberey-Saint-Sulpice,"48.3271986159, 4.01643187202",10,Aube,44,Grand-Est,00:00:00,2017,Distribution,GRDF,14.3008,200069250
+34,SAS AGRI METHA ENERGY,Agricole autonome,77433,Saints,"48.7643724711, 3.05922570921",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2017,Distribution,GRDF,17.876,200077055
+35,Létang Biométhane Sourdun 2,Agricole autonome,77459,Sourdun,"48.5369434021, 3.3628787539",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2017,Distribution,GRDF,13.407,200037133
+36,POT AU PIN ENERGIE,Agricole autonome,33122,Cestas,"44.7237410966, -0.726825410115",33,Gironde,75,Nouvelle-Aquitaine,00:00:00,2018,Distribution,GRDF,12.5132,243301165
+37,AGRIBERRY ENERGIE,Agricole territorial,18180,Plaimpied-Givaudins,"47.0077517141, 2.43617013189",18,Cher,24,Centre-Val de Loire,00:00:00,2018,Distribution,GRDF,22.345,241800507
+38,SAS AVEL Energies,Agricole autonome,29149,Milizac,"48.4584867435, -4.56837656618",29,Finistère,53,Bretagne,00:00:00,2018,Distribution,GRDF,6.2566,242900074
+39,CERTENERGIE,Agricole autonome,33019,Audenge,"44.7138966628, -0.944173294479",33,Gironde,75,Nouvelle-Aquitaine,00:00:00,2018,Distribution,GRDF,17.876,243301504
+40,LA MONTE BLANCHE,Industriel territorial,51248,Fère-Champenoise,"48.7706781866, 4.01743444039",51,Marne,44,Grand-Est,00:00:00,2018,Transport,GRTgaz,26.814,245100979
+41,Gaec du Tertre Goutte,Agricole autonome,22197,Pleudihen-sur-Rance,"48.5092937336, -1.94145904907",22,Côtes-d'Armor,53,Bretagne,00:00:00,2019,Distribution,Veolia-Eau,6.16722,200068989
+42,SAS Biométha,Agricole autonome,29150,Moëlan-sur-Mer,"47.8061076978, -3.64546918043",29,Finistère,53,Bretagne,00:00:00,2019,Distribution,GRDF,7.5973,242900694
+43,SAS MEETHA,Agricole territorial,44199,Soudan,"47.7255705926, -1.29052393382",44,Loire-Atlantique,52,Pays de la Loire,00:00:00,2019,Distribution,GRDF,15.6415,200072726
+44,Méthanisère,Agricole territorial,38013,Apprieu,"45.3973605604, 5.4963701967",38,Isère,84,Auvergne-Rhône-Alpes,00:00:00,2019,Distribution,GRDF,8.938,243801073
+45,Méthan'Agri,Agricole autonome,61278,Messei,"48.7140643026, -0.539204262797",61,Orne,28,Normandie,00:00:00,2019,Transport,GRTgaz,53.628,200035814
+46,USINE CARRE DE REUNION (ST CYR),Station d'épuration,78545,Saint-Cyr-l'École,"48.8065759294, 2.0659250703",78,Yvelines,11,Ile-de-France,00:00:00,2019,Distribution,GRDF,5.98846,247800584
+47,STEP d'HAGONDANGE,Station d'épuration,57043,Ay-sur-Moselle,"49.2475802944, 6.19571589281",57,Moselle,44,Grand-Est,00:00:00,2019,Distribution,GRDF,3.21768,200039949
+48,SCEA de Cohon - Le Chevain,Agricole autonome,72308,Saint-Paterne - Le Chevain,"48.4136370812, 0.114907308448",72,Sarthe,52,Pays de la Loire,00:00:00,2019,Distribution,GRDF,16.0884,246100663
+49,Gaec du Treil Machecoul,Agricole autonome,44087,Machecoul-Saint-Même,"46.9910784513, -1.82345670327",44,Loire-Atlantique,52,Pays de la Loire,00:00:00,2019,Distribution,GRDF,11.1725,200071546
+50,BIOENERGIE DE DHUILLET,Agricole autonome,91469,Ormoy-la-Rivière,"48.4004789028, 2.16430044754",91,Essonne,11,Ile-de-France,00:00:00,2020,Distribution,GRDF,11.1725,200017846
+51,SAS AGRIBIOMETHANE,Agricole territorial,85151,Mortagne-sur-Sèvre,"46.9910941319, -0.946500033344",85,Vendée,52,Pays de la Loire,00:00:00,2014,Distribution,GRDF,9.8318,248500662
+52,Agriopale Services,Agricole autonome,62752,Saint-Josse,"50.4816510992, 1.66447526938",62,Pas-de-Calais,32,Hauts-de-France,00:00:00,2015,Distribution,GRDF,23.6857,200069029
+53,Biovilleneuvois,Industriel territorial,47323,Villeneuve-sur-Lot,"44.4251092866, 0.742526167632",47,Lot-et-Garonne,75,Nouvelle-Aquitaine,00:00:00,2015,Transport,Teréga,46.4776,200023307
+54,Létang Hoche Biogaz,Agricole territorial,02279,Épaux-Bézu,"49.1029988371, 3.35359350285",02,Aisne,32,Hauts-de-France,00:00:00,2016,Distribution,GRDF,17.876,200072031
+55,Locminé,Agricole territorial,56117,Locminé,"47.8796108678, -2.83755408244",56,Morbihan,53,Bretagne,00:00:00,2017,Distribution,GRDF,10.7256,200067221
+56,Bioloie,Industriel territorial,85084,Essarts en Bocage,"46.7806739038, -1.22925967851",85,Vendée,52,Pays de la Loire,00:00:00,2017,Transport,GRTgaz,62.566,200071918
+57,SAS BIOGAZ du VERDUNOIS,Agricole autonome,55505,Thierville-sur-Meuse,"49.1721699733, 5.33910478758",55,Meuse,44,Grand-Est,00:00:00,2018,Distribution,GRDF,8.938,200049187
+58,METHANSIEUR 2 VALLEES,Agricole territorial,67445,Scherwiller,"48.2952491317, 7.41512520333",67,Bas-Rhin,44,Grand-Est,00:00:00,2018,Distribution,GRDF,14.3008,246700967
+59,SAS AGRI GNVÔGE,Agricole territorial,88098,Chaumousey,"48.1734708065, 6.33193477567",88,Vosges,44,Grand-Est,00:00:00,2018,Distribution,GRDF,14.7477,200068757
+60,Centrale biogaz de Chantonnay,Agricole territorial,85051,Chantonnay,"46.6690167793, -1.04372588019",85,Vendée,52,Pays de la Loire,00:00:00,2018,Distribution,GRDF,22.345,248500340
+61,Bioénergie de Parvillers Sem,Agricole territorial,60400,Le Mesnil-sur-Bulles,"49.4823695987, 2.34912415685",60,Oise,32,Hauts-de-France,00:00:00,2018,Distribution,GRDF,13.407,246000566
+62,Beauce Gâtinais Biogaz,Agricole territorial,45137,Escrennes,"48.1364055687, 2.18433088094",45,Loiret,24,Centre-Val de Loire,00:00:00,2019,Distribution,GRDF,18.7698,200066280
+63,SAS Nangis Biogaz,Agricole autonome,77327,Nangis,"48.554637282, 3.00883892893",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2019,Transport,GRTgaz,13.407,247700701
+64,Méthanergie,Agricole autonome,71131,Ciel,"46.8716291957, 5.05115500472",71,Saône-et-Loire,27,Bourgogne-Franche-Comté,00:00:00,2019,Distribution,GRDF,17.876,200040038
+65,STEP Albi,Station d'épuration,81004,Albi,"43.9258213622, 2.14686328555",81,Tarn,76,Occitanie,00:00:00,2019,Distribution,GRDF,3.1283,248100737
+66,SARL ET'GP Biogaz,Agricole autonome,35010,Baguer-Pican,"48.5500094703, -1.69120416285",35,Ille-et-Vilaine,53,Bretagne,00:00:00,2019,Distribution,GRDF,6.7035,200070670
+67,Biogaz d'Arcis,Agricole territorial,10272,Ormes,"48.555534468, 4.1130717526",10,Aube,44,Grand-Est,00:00:00,2019,Transport,GRTgaz,43.7962,200071777
+68,METHAVERT Le Grand Ranchou,Agricole autonome,36202,Saint-Maur,"46.7890918907, 1.62343965566",36,Indre,24,Centre-Val de Loire,00:00:00,2019,Distribution,GRDF,22.345,243600327
+69,Centrale biogaz des terres de montaigu,Agricole territorial,85146,Montaigu,"46.9759800852, -1.31364530268",85,Vendée,52,Pays de la Loire,00:00:00,2019,Distribution,GRDF,24.31136,200070233
+70,Biogy,Agricole autonome,62557,Marœuil,"50.3306055435, 2.71035583524",62,Pas-de-Calais,32,Hauts-de-France,00:00:00,2019,Distribution,GRDF,17.876,200033579
+71,STEP - Les Mureaux,Station d'épuration,78440,Les Mureaux,"48.9888041078, 1.91363448925",78,Yvelines,11,Ile-de-France,00:00:00,2019,Distribution,GRDF,5.8097,200059889
+72,SAS BIOMETA - Ivry-le-Temple,Agricole territorial,60321,Ivry-le-Temple,"49.2320779777, 2.02966880034",60,Oise,32,Hauts-de-France,00:00:00,2019,Distribution,GRDF,13.407,246000582
+73,STEP Furania,Station d'épuration,42097,La Fouillouse,"45.5010028075, 4.31920755114",42,Loire,84,Auvergne-Rhône-Alpes,00:00:00,2019,Distribution,GRDF,11.6194,244200770
+74,Méthanisation Seille Environnement,Agricole autonome,57295,Haraucourt-sur-Seille,"48.8084972349, 6.60564803108",57,Moselle,44,Grand-Est,00:00:00,2019,Transport,GRTgaz,26.814,245701206
+75,MEDOC ENERGIES 2,Agricole territorial,33203,Hourtin,"45.1807913533, -1.06580080764",33,Gironde,75,Nouvelle-Aquitaine,00:00:00,2020,Distribution,Régaz,28.42284,200070720
+76,Mouzon Energie,Agricole autonome,52476,Sommerécourt,"48.2241761343, 5.65159771886",52,Haute-Marne,44,Grand-Est,00:00:00,2020,Transport,GRTgaz,31.283,200069664
+77,Agrifyl,Agricole territorial,52121,Chaumont,"48.0980144211, 5.14070044621",52,Haute-Marne,44,Grand-Est,00:00:00,2016,Distribution,GRDF,16.0884,200068658
+78,STEP Tour(s)+,Station d'épuration,37195,La Riche,"47.3812692668, 0.637590445417",37,Indre-et-Loire,24,Centre-Val de Loire,00:00:00,2016,Distribution,GRDF,12.5132,243700754
+79,Brie Biogaz,Agricole autonome,77053,Brie-Comte-Robert,"48.6920490316, 2.6140606052",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2017,Distribution,GRDF,13.8539,247700644
+80,MEUHVELEC,Agricole autonome,74293,Veigy-Foncenex,"46.2703256602, 6.26781250084",74,Haute-Savoie,84,Auvergne-Rhône-Alpes,00:00:00,2017,Distribution,GRDF,7.1504,200067551
+81,GRAND REIMS I,Agricole autonome,51105,Cernay-lès-Reims,"49.2538223791, 4.10981558086",51,Marne,44,Grand-Est,00:00:00,2018,Distribution,GRDF,17.876,200067213
+82,NORSKE SKOG 1,Industriel territorial,88209,Golbey,"48.2002428602, 6.42545128144",88,Vosges,44,Grand-Est,00:00:00,2018,Distribution,GRDF,16.0884,200068757
+83,MethaBrie,Agricole autonome,77371,Pommeuse,"48.8178723511, 3.00613268677",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2018,Distribution,GRDF,17.876,200077055
+84,SAS Méthabraye,Agricole autonome,41100,Les Hayes,"47.6990596775, 0.780078483408",41,Loir-et-Cher,24,Centre-Val de Loire,00:00:00,2018,Distribution,GRDF,12.0663,200072072
+85,Centrale Biogaz de Kastellin,Industriel territorial,29026,Châteaulin,"48.2032973995, -4.07350636234",29,Finistère,53,Bretagne,00:00:00,2018,Transport,GRTgaz,31.283,200067247
+86,BLB GAZ (Saconin-et-Breuil),Agricole autonome,02667,Saconin-et-Breuil,"49.3506902358, 3.24672146323",02,Aisne,32,Hauts-de-France,00:00:00,2018,Distribution,GRDF,17.876,200071991
+87,SEMAVERT,ISDND,91648,Vert-le-Grand,"48.583559319, 2.36719516135",91,Essonne,11,Ile-de-France,00:00:00,2018,Distribution,GRDF,22.345,249100546
+88,Centrale Biogaz du Dunois,Agricole autonome,28233,Marboué,"48.1196433379, 1.30776071957",28,Eure-et-Loir,24,Centre-Val de Loire,00:00:00,2018,Distribution,GRDF,17.876,200069961
+89,Gazteam Energie,Agricole autonome,79096,Combrand,"46.8639718192, -0.695632067582",79,Deux-Sèvres,75,Nouvelle-Aquitaine,00:00:00,2018,Transport,GRTgaz,33.0706,200040244
+90,Methalayou,Agricole territorial,64459,Préchacq-Navarrenx,"43.2799895089, -0.705497036287",64,Pyrénées-Atlantiques,75,Nouvelle-Aquitaine,00:00:00,2018,Transport,Teréga,8.938,200067288
+91,VEOLIA-WAGA,ISDND,18110,Herry,"47.2284204871, 2.9415312436",18,Cher,24,Centre-Val de Loire,00:00:00,2018,Distribution,GRDF,16.0884,200032514
+92,SARL Morel Energies,Agricole autonome,35133,Iffendic,"48.1137342706, -2.02411746064",35,Ille-et-Vilaine,53,Bretagne,00:00:00,2018,Distribution,GRDF,6.2566,243500550
+93,WAGA CHEVILLY - SUEZ,ISDND,45093,Chevilly,"48.0300099024, 1.89353421396",45,Loiret,24,Centre-Val de Loire,00:00:00,2018,Distribution,GRDF,15.6415,200035764
+94,STEP du Reyran,Station d'épuration,83061,Fréjus,"43.4719558114, 6.76361597424",83,Var,93,Provence-Alpes-Côte d'Azur,00:00:00,2019,Distribution,GRDF,9.3849,200035319
+95,Letang Saconin et Breuil,Agricole autonome,02667,Saconin-et-Breuil,"49.3506902358, 3.24672146323",02,Aisne,32,Hauts-de-France,00:00:00,2019,Distribution,GRDF,14.7477,200071991
+96,Biogaz des Templiers,Agricole autonome,10282,Payns,"48.3754453406, 3.95779312203",10,Aube,44,Grand-Est,00:00:00,2019,Distribution,GRDF,12.5132,200069250
+97,Métha 3,Agricole autonome,67510,Wahlenheim,"48.7659087091, 7.68693403664",67,Bas-Rhin,44,Grand-Est,00:00:00,2019,Distribution,R-GDS,8.938,200067874
+98,CENTRALE BIOGAZ LES HAUTS FALAISES,Agricole territorial,76600,Saint-Léonard,"49.7321818322, 0.341907614977",76,Seine-Maritime,28,Normandie,00:00:00,2019,Distribution,GRDF,20.1105,200069821
+99,Biogasconha,Agricole territorial,40036,Bénesse-Maremne,"43.6346135825, -1.36478553572",40,Landes,75,Nouvelle-Aquitaine,00:00:00,2019,Distribution,GRDF,118.4285,244000865
+100,AGRAMETHA,Agricole autonome,18138,Marmagne,"47.0892553874, 2.27075651411",18,Cher,24,Centre-Val de Loire,00:00:00,2019,Distribution,GRDF,22.345,241800507
+101,AGRO ECO,Agricole autonome,36049,Chazelet,"46.5082146993, 1.43370852289",36,Indre,24,Centre-Val de Loire,00:00:00,2019,Distribution,GRDF,10.2787,243600319
+102,Biodéac,Industriel territorial,22136,Loudéac,"48.1740293909, -2.75097544378",22,Côtes-d'Armor,53,Bretagne,00:00:00,2019,Transport,GRTgaz,45.76256,200067460
+103,SUEZ AUX VENTES DE BOURSE,ISDND,61499,Les Ventes-de-Bourse,"48.5065515464, 0.266487058191",61,Orne,28,Normandie,00:00:00,2020,Distribution,GRDF,22.345,200035103
+104,SAS MESSY BIOGAZ,Agricole autonome,77292,Messy,"48.9671202326, 2.70115983516",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2020,Distribution,GRDF,12.5132,200033090
+105,Emeraude Bioénergie,Industriel territorial,22093,Lamballe,"48.4684404751, -2.49534815954",22,Côtes-d'Armor,53,Bretagne,00:00:00,2020,Distribution,GRDF,71.504,200069391
+106,SARL Métha Vallon,Agricole autonome,35126,Guichen,"47.9653877316, -1.79026270939",35,Ille-et-Vilaine,53,Bretagne,00:00:00,2020,Distribution,GRDF,4.469,200043990
+107,CVO,Déchets ménagers,59350,Lille,"50.6317183168, 3.04783272312",59,Nord,32,Hauts-de-France,00:00:00,2011,Distribution,GRDF,58.9908,245900410
+108,METHAVALOR - SYDEME,Déchets ménagers,57227,Forbach,"49.1912650369, 6.89275798526",57,Moselle,44,Grand-Est,00:00:00,2013,Distribution,GRDF,8.938,245700372
+109,BIOENERGIE DE LA BRIE,Agricole autonome,77107,Chaumes-en-Brie,"48.6671544898, 2.84491273965",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2013,Distribution,GRDF,12.9601,200070779
+110,SARL SIOULE - BIOGAZ,Agricole autonome,03254,Saint-Pourçain-sur-Sioule,"46.3045094327, 3.30537827054",03,Allier,84,Auvergne-Rhône-Alpes,00:00:00,2015,Distribution,GRDF,2.94954,200071389
+111,GAEC du Champ Fleury,Agricole autonome,35152,Liffré,"48.204097581, -1.51420907793",35,Ille-et-Vilaine,53,Bretagne,00:00:00,2015,Distribution,GRDF,7.1504,243500774
+112,SYMEVAD,Déchets ménagers,62427,Hénin-Beaumont,"50.4092335517, 2.95899735168",62,Pas-de-Calais,32,Hauts-de-France,00:00:00,2015,Distribution,GRDF,32.1768,246200299
+113,Gâtinais Biogaz,Agricole autonome,45083,Château-Renard,"47.9266379127, 2.92209191737",45,Loiret,24,Centre-Val de Loire,00:00:00,2016,Distribution,GRDF,14.3008,200067668
+114,AQUABIOGAZ SAS,Station d'épuration,38170,Fontanil-Cornillon,"45.2540718462, 5.66423363739",38,Isère,84,Auvergne-Rhône-Alpes,00:00:00,2016,Distribution,GRDF,22.97066,200040715
+115,Saint Florentin -ISDND,ISDND,89345,Saint-Florentin,"47.996991653, 3.70472818773",89,Yonne,27,Bourgogne-Franche-Comté,00:00:00,2017,Distribution,GRDF,14.12204,200067304
+116,Terragr'Eau,Agricole territorial,74308,Vinzier,"46.3449767077, 6.61043449085",74,Haute-Savoie,84,Auvergne-Rhône-Alpes,00:00:00,2017,Distribution,GRDF,9.8318,200071967
+117,SAS Méthabiogaz,Agricole autonome,85020,Benet,"46.368873213, -0.613959918706",85,Vendée,52,Pays de la Loire,00:00:00,2017,Distribution,GRDF,8.0442,248500563
+118,La Bassée Biogaz,Agricole autonome,77341,Noyen-sur-Seine,"48.4518691045, 3.34226623535",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2017,Transport,GRTgaz,16.0884,200040251
+119,VITALIGAZ,Agricole territorial,27227,Étréville,"49.3795673555, 0.65533275771",27,Eure,28,Normandie,00:00:00,2018,Transport,GRTgaz,31.283,200066405
+120,Bio méthane SEG La séguinière,Agricole autonome,49332,La Séguinière,"47.0803772753, -0.957722131472",49,Maine-et-Loire,52,Pays de la Loire,00:00:00,2018,Distribution,GRDF,13.407,200071678
+121,TRIGONE,ISDND,32307,Pavie,"43.605614575, 0.589850870884",32,Gers,76,Occitanie,00:00:00,2018,Distribution,GRDF,6.2566,200066926
+122,FERTIOISE,Agricole territorial,60166,Coudun,"49.4581784318, 2.8000113018",60,Oise,32,Hauts-de-France,00:00:00,2018,Distribution,GRDF,22.345,246000855
+123,MED STEP RIVIERE PERPIGNAN,Station d'épuration,66136,Perpignan,"42.6965954131, 2.89936953979",66,Pyrénées-Orientales,76,Occitanie,00:00:00,2018,Distribution,GRDF,7.1504,200027183
+124,SOBER,Industriel territorial,56213,Saint-Gérand,"48.1085338932, -2.88597650893",56,Morbihan,53,Bretagne,00:00:00,2019,Distribution,GRDF,17.876,245614433
+125,SAS Méthamoly,Agricole territorial,42216,Saint-Denis-sur-Coise,"45.6115793741, 4.43091520016",42,Loire,84,Auvergne-Rhône-Alpes,00:00:00,2019,Distribution,GRDF,13.407,200066587
+126,SAS METHAVIE,Agricole territorial,85178,Le Poiré-sur-Vie,"46.769919754, -1.50488626452",85,Vendée,52,Pays de la Loire,00:00:00,2019,Distribution,GRDF,26.814,200072882
+127,Médoc Biogaz,Agricole territorial,33424,Saint-Laurent-Médoc,"45.1404040788, -0.862340576235",33,Gironde,75,Nouvelle-Aquitaine,00:00:00,2019,Distribution,Régaz,26.814,200069995
+128,Mahe BioEnergie,Agricole autonome,77049,Boutigny,"48.9127981727, 2.9292515848",77,Seine-et-Marne,11,Ile-de-France,00:00:00,2019,Distribution,GRDF,12.5132,247700438
+129,SAS JB Energie,Agricole autonome,56165,Ploërmel,"47.9221801451, -2.38313563666",56,Morbihan,53,Bretagne,00:00:00,2019,Distribution,GRDF,7.1504,200066777
+130,SAS TREVINERGIE,Agricole autonome,35133,Iffendic,"48.1137342706, -2.02411746064",35,Ille-et-Vilaine,53,Bretagne,00:00:00,2019,Distribution,GRDF,8.0442,243500550
+131,Agri-Aisnergie,Agricole territorial,02549,Neuville-Saint-Amand,"49.8206477091, 3.33360991741",02,Aisne,32,Hauts-de-France,00:00:00,2019,Distribution,GRDF,12.5132,200071892
+132,ISDND Kermat,ISDND,56090,Inzinzac-Lochrist,"47.8558359743, -3.25178122558",56,Morbihan,53,Bretagne,00:00:00,2019,Distribution,GRDF,7.1504,200042174
+133,AREVA STEP d'ARENTHON,Station d'épuration,74018,Arenthon,"46.0981343308, 6.3386699894",74,Haute-Savoie,84,Auvergne-Rhône-Alpes,00:00:00,2019,Distribution,GRDF,4.469,247400724
+134,SIVOM,ISDND,31300,Lieoux,"43.1495836513, 0.773537344918",31,Haute-Garonne,76,Occitanie,00:00:00,2020,Distribution,GRDF,16.9822,200072643
+135,MED APTUNION APT,Industriel territorial,84003,Apt,"43.879393265, 5.38921757843",84,Vaucluse,93,Provence-Alpes-Côte d'Azur,00:00:00,2020,Distribution,GRDF,12.5132,200040624
+136,SARL Castel Métha,Agricole autonome,35206,Noyal-Châtillon-sur-Seiche,"48.0524815273, -1.6633106381",35,Ille-et-Vilaine,53,Bretagne,00:00:00,2020,Distribution,GRDF,5.8097,243500139
+137,SCEA du Château,Agricole autonome,50265,Laulne,"49.2506372168, -1.45537341043",50,Manche,28,Normandie,00:00:00,2020,Distribution,GRDF,4.20086,200067031
+138,METHASANON,Agricole territorial,54176,Einville-au-Jard,"48.6558058764, 6.4779137062",54,Meurthe-et-Moselle,44,Grand-Est,00:00:00,2020,Distribution,GRDF,13.407,245400759
+139,BEAULIEU METANERGIE,Agricole autonome,61006,Argentan,"48.7321880919, -0.0132322590535",61,Orne,28,Normandie,00:00:00,2020,Distribution,GRDF,19.6636,200068450
